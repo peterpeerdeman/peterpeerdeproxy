@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Online Solutions &#187; Peter Peerdeman</title>
+	<atom:link href="http://www.nl.capgemini.com/onlineblog/author/ppeerdeman/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.nl.capgemini.com/onlineblog</link>
+	<description></description>
+	<lastBuildDate>Mon, 20 Feb 2012 10:45:39 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.2.1</generator>
+<xhtml:meta xmlns:xhtml="http://www.w3.org/1999/xhtml" name="robots" content="noindex" />
+		<item>
+		<title>De toekomst van BlackBerry</title>
+		<link>http://www.nl.capgemini.com/onlineblog/2012/02/de-toekomst-van-blackberry/</link>
+		<comments>http://www.nl.capgemini.com/onlineblog/2012/02/de-toekomst-van-blackberry/#comments</comments>
+		<pubDate>Mon, 13 Feb 2012 07:45:00 +0000</pubDate>
+		<dc:creator>Peter Peerdeman</dc:creator>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[blackberry]]></category>
+		<category><![CDATA[html5]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[playbook]]></category>
+		<category><![CDATA[rim]]></category>
+		<category><![CDATA[tablet]]></category>
+		<category><![CDATA[web]]></category>
+		<category><![CDATA[webapp]]></category>
+
+		<guid isPermaLink="false">http://www.nl.capgemini.com/onlineblog/?p=166</guid>
+		<description><![CDATA[Er heerste een trend op de BlackBerry Devcon Europe: developers kwamen uit alle hoeken en gaten tevoorschijn om in de RAI een gratis Playbook op te halen. Steekproefsgewijs kwam ik erachter dat het merendeel van de aanwezigen niet zozeer BlackBerry &#8230; <a href="http://www.nl.capgemini.com/onlineblog/2012/02/de-toekomst-van-blackberry/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Er heerste een trend op de BlackBerry Devcon Europe: developers kwamen uit alle hoeken en gaten tevoorschijn om in de RAI een gratis Playbook op te halen. Steekproefsgewijs kwam ik erachter dat het merendeel van de aanwezigen niet zozeer BlackBerry evangelist was, maar dat iedereen stiekem toch wel benieuwd is naar de leap-of-faith van RIM in de tabletwereld.</p>
+<p>De strategie van BlackBerry is duidelijk: verleid de developers, verlaag de drempels en wees coulant met de regels. Het mantra &#8220;Utilize your existing (web) experience&#8221; vertaalt zich dan ook in ongekende flexibiliteit omtrent de goedkeuring van applicaties: Android apps, Flash / AIR apps, native C/C++, Blackberry Java en HTML5 webapps kunnen een-op-een geconverteerd worden naar de BlackBerry AppWorld. Met het uitreiken van nóg een gratis Playbook voor elke toegevoegde app maakt RIM het BlackBerry-evangelisme wel heel erg aantrekkelijk, toch?</p>
+<p>Ondanks de interessante groep van 75 miljoen koopgrage BlackBerry-gebruikers, de AppWorld waarin nog een hoop ruimte is voor degelijke apps en talloze aanmoedigingen om voor het platform te ontwikkelen is er ook een keerzijde van de medaille. De apps die massaal zonder aanpassen worden omgezet missen consistentie, volgen geen enkele user experience best practice en zijn veelal slecht getest. Voor ontwikkelaars interessant, maar voor de eindgebruiker een nachtmerrie van een user experience.</p>
+<p>Toch blijft de Playbook een interessante zet. Zowel qua afmetingen als prijs past de tablet van RIM minstens twee keer in de iPad, wat de koop- en draagbaarheid ten goede komt. Met de meest HTML5-vriendelijke mobiele browser op de markt en het WebWorks HTML5 framework lijkt BlackBerry flink in te zetten op webapplicaties, wat de toekomstbestendigheid van het platform ten goede komt.</p>
+<p>De grote uitdaging schuilt in de acceptatie door de eindgebruiker. De pingende jeugd en de zakelijke massa e-mailers moeten het op dit moment doen met een mager aanbod van degelijke mobiele web applicaties. Webapps zoals Twitter, Facebook en TweetDeck doen een goede poging om de toekomst van de webapp te bewijzen, maar raken vooralsnog ondergesneeuwd tussen de native applicaties die volledige toegang hebben tot smartphone functionaliteiten zoals het adresboek en de camera. Ik denk dat we over een paar jaar allemaal massaal onze goedkope Playbooks afstoffen om dan te genieten van het volwassen HTML5 landschap met een rijke web experience waar zelfs de native apps van vandaag een puntje aan kunnen zuigen.</p>
+<div class="wp-caption alignnone" style="width: 650px"><a href="http://www.flickr.com/photos/peterpeerdeman/6865401543/in/set-72157629291863861/"><img alt="6865401543 41e866d909 z De toekomst van BlackBerry" src="http://farm8.staticflickr.com/7202/6865401543_41e866d909_z.jpg" width="640" height="427" title="De toekomst van BlackBerry" /></a><p class="wp-caption-text">Thorsten Heins tijdens zijn Keynote op #bbdevcon 2012</p></div>
+]]></content:encoded>
+			<wfw:commentRss>http://www.nl.capgemini.com/onlineblog/2012/02/de-toekomst-van-blackberry/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Het belang van de frontend architectuur</title>
+		<link>http://www.nl.capgemini.com/onlineblog/2012/02/het-belang-van-de-frontend-architectuur/</link>
+		<comments>http://www.nl.capgemini.com/onlineblog/2012/02/het-belang-van-de-frontend-architectuur/#comments</comments>
+		<pubDate>Fri, 03 Feb 2012 07:45:39 +0000</pubDate>
+		<dc:creator>Peter Peerdeman</dc:creator>
+				<category><![CDATA[Frontend Development]]></category>
+		<category><![CDATA[architectuur]]></category>
+		<category><![CDATA[frontend]]></category>
+		<category><![CDATA[klantervaring]]></category>
+		<category><![CDATA[modulariteit]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.nl.capgemini.com/onlineblog/?p=37</guid>
+		<description><![CDATA[Online kanalen zijn dé bron van transacties voor elk groot bedrijf. Klanten bezoeken websites, geven hun geld uit, gebruiken web applicaties en vellen hun mening via de sociale media. Door de gigantisch snelle ontwikkelingsstrijd van webgiganten als Facebook, Google en &#8230; <a href="http://www.nl.capgemini.com/onlineblog/2012/02/het-belang-van-de-frontend-architectuur/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Online kanalen zijn dé bron van transacties voor elk groot bedrijf. Klanten bezoeken websites, geven hun geld uit, gebruiken web applicaties en vellen hun mening via de sociale media. Door de gigantisch snelle ontwikkelingsstrijd van webgiganten als Facebook, Google en Apple zijn de verwachtingen van online experiences torenhoog gespannen. Hierdoor komt geen enkel bedrijf nog weg met een matige online ervaring en krijgen bedrijven die het toch proberen de volle laag op Twitter.</p>
+<p>Bedrijven die wél mee gaan, denken na vanuit het perspectief van de klant en produceren toegankelijke, bruikbare webapplicaties die klanten wíllen gebruiken. De voorkant van zo&#8217;n applicatie, de frontend, is daarbij een van de meest kritieke succesfactoren. Bij de ontwikkeling van zo&#8217;n bruikbare user interface kom je echt niet meer weg met een simpele HTML template slag in een Java struts laag.</p>
+<p>Net zoals bij de ontwikkeling van de net zo kritieke backend architectuur zal er moeten worden nagedacht over een frontend architectuur die niet alleen een fraaie webpagina weergeeft, maar ook nog eens onderhoudbaar is, modulair ontwikkeld kan worden en op een gepaste manier reageert in alle browsers en devices met moderne interactiepatronen.</p>
+<p>In combinatie met een agile ontwikkelingsmethodiek waarin de nieuw ontwikkelde features snel beschikbaar zijn voor de klant en een online concept waarin de klantervaring centraal staat, zorgt de flexibele frontend architectuur voor een tevreden gebruiker die met plezier de applicatie bij zijn lijstje favorieten van de andere webgiganten zet.</p>
+<p><a href="http://www.flickr.com/photos/peterpeerdeman/6335968928/in/set-72157625762628110"><img alt="6335968928 9c0613b8cb z Het belang van de frontend architectuur" src="http://farm7.staticflickr.com/6214/6335968928_9c0613b8cb_z.jpg" class="alignnone" width="640" height="427" title="Het belang van de frontend architectuur" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.nl.capgemini.com/onlineblog/2012/02/het-belang-van-de-frontend-architectuur/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

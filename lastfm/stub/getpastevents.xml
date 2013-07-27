@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<events user="helmeester" url="http://www.last.fm/user/helmeester/events" usertimezone="UTC" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" page="1" perPage="15" totalPages="3" total="45">
+    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>2024500</id>
+  <title>James Blake</title>
+  <artists>
+    <artist>James Blake</artist>
+    <artist>Marques Toliver</artist>
+    <headliner>James Blake</headliner>
+  </artists>
+    <venue>
+    <id>8778456</id>
+    <name>Paradiso</name>
+    <location>
+      <city>Amsterdam</city>
+      <country>Netherlands</country>
+      <street>Weteringschans 6-8</street>
+      <postalcode>1017 SG</postalcode>
+      <geo:point>
+         <geo:lat>52.362287</geo:lat>
+         <geo:long>4.883965</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778456+Paradiso</url>
+    <website>http://www.paradiso.nl</website>
+    <phonenumber>+31-(0)20-6264521</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/405754.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/405754.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/405754.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/405754.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/405754/Paradiso.jpg</image>
+  </venue>    <startDate>Tue, 22 Nov 2011 08:55:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/69085146.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/69085146.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/69085146.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/69085146.png</image>
+  <attendance>92</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=2024500</tag>    
+  <url>http://www.last.fm/event/2024500+James+Blake+at+Paradiso+on+22+November+2011</url>
+  <website></website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>3106905</id>
+  <title>Larry Graham &amp; Graham Central Station in Tivoli </title>
+  <artists>
+    <artist>Larry Graham</artist>
+    <artist>Graham Central Station</artist>
+    <headliner>Larry Graham</headliner>
+  </artists>
+    <venue>
+    <id>8779114</id>
+    <name>Tivoli Oudegracht</name>
+    <location>
+      <city>Utrecht</city>
+      <country>Netherlands</country>
+      <street>Oudegracht 245</street>
+      <postalcode>3511 NL</postalcode>
+      <geo:point>
+         <geo:lat>52.087192</geo:lat>
+         <geo:long>5.121694</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779114+Tivoli+Oudegracht</url>
+    <website>http://www.tivoli.nl</website>
+    <phonenumber>0900 235 84 86</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/381929.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/381929.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/381929.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/381929.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/381929/Tivoli+Oudegracht.jpg</image>
+  </venue>    <startDate>Tue, 15 Nov 2011 20:30:00</startDate>
+  <description><![CDATA[<div class="bbcode">Larry Graham met zijn Central Station in Tivoli Oudegracht. Deuren open 19:30, aanvang 20:30.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/203433.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/203433.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/203433.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/203433.jpg</image>
+  <attendance>5</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=3106905</tag>    
+  <url>http://www.last.fm/event/3106905+Larry+Graham+-+Graham+Central+Station+in+Tivoli+</url>
+  <website>http://www.tivoli.nl/agenda/informatie/atid/234369/datum/di-15-nov-2011/titel/LARRY+GRAHAM+%26amp%3B+GRAHAM+CENTRAL+STATION</website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1869171</id>
+  <title>Limp Bizkit</title>
+  <artists>
+    <artist>Limp Bizkit</artist>
+    <artist>Dope D.O.D.</artist>
+    <artist>Psyko Dalek</artist>
+    <headliner>Limp Bizkit</headliner>
+  </artists>
+    <venue>
+    <id>8778722</id>
+    <name>Heineken Music Hall</name>
+    <location>
+      <city>Amsterdam</city>
+      <country>Netherlands</country>
+      <street>ArenA Boulevard 590</street>
+      <postalcode>1101 DS</postalcode>
+      <geo:point>
+         <geo:lat>52.312597</geo:lat>
+         <geo:long>4.943387</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778722+Heineken+Music+Hall</url>
+    <website>http://www.heineken-music-hall.nl</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/18210785.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/18210785.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/18210785.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/18210785.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/18210785/Heineken+Music+Hall.jpg</image>
+  </venue>    <startDate>Thu, 07 Jul 2011 19:30:00</startDate>
+  <description><![CDATA[<div class="bbcode">Limp Bizkit op 7 juli in de Heineken Music Hall!<br /><br />Na twee uitverkochte shows in 2010 (Effenaar en Heineken Music Hall), komt Limp Bizkit in 2011 terug met een nieuwe live show, alsook een nieuwe plaat. Op donderdag 7 juli staat de Amerikaanse rockband voor een concert in de Heineken Music Hall in Amsterdam. De voorverkoop start vrijdag 11 maart via <a href="http://www.livenation.nl" rel="nofollow">www.livenation.nl</a><br /><br />Enkele wapenfeiten over ��n van 's werelds grootste rockbands, Limp Bizkit: De plaat 'Chocolate Starfish and the Hot Dog Flavored Water' uit 2000 verkocht in de eerste week na verschijnen ��n miljoen exemplaren en dat is nog altijd een recordaantal. In totaal heeft Limp Bizkit wereldwijd al ruim 40 miljoen albums verkocht. De band heeft grote hits gescoord met onder andere 'Nookie', 'Faith', 'Take A Look Around' en 'Break Stuff' en diverse awards in de wacht gesleept, waaronder meerdere MTV Europe Music Awards, een MTV Video Music Award en een American Music Award. 'Gold Cobra', zo heet het nog te verschijnen nieuwe album van Limp Bizkit. De exacte datum waarop deze uitkomt is nog onbekend, maar hij is onderweg!<br /><br />De krachtige rockband uit Jacksonville, Florida is sinds vorig jaar weer terug in de oude formatie, �nclusief gitarist Wes Borland. Maar ook Sam Rivers (bassist), John Otto (drummer) en sampler DJ Lethal zijn naast frontman, zanger Fred Durst van de partij. Wes Borland en Fred Durst verklaren: &quot;Regardless of where our seperate paths have taken us, we recognize there is a powerful and unique energy with this particular group of people we have not found anywhere else. This is why Limp Bizkit is back.'<br /><br />Wil je ook carpoolen naar het concert van Limp Bizkit?<br /><br />Kom jij carpoolen naar de Heineken Music Hall? Zorg er dan voor dat jij als eerste een carpoolafspraak scoort.<br /><br />Als dank trakteert de Heineken Music Hall jullie dan op een welkomstdrankje!</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/3044858.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/3044858.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/3044858.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/3044858.jpg</image>
+  <attendance>77</attendance>
+  <reviews>1</reviews>
+  <tag>lastfm:event=1869171</tag>    
+  <url>http://www.last.fm/event/1869171+Limp+Bizkit+at+Heineken+Music+Hall+on+7+July+2011</url>
+  <website>http://www.heinekenmusichall.nl</website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1593907</id>
+  <title>Rock Werchter 2011</title>
+  <artists>
+    <artist>Coldplay</artist>
+    <artist>Linkin Park</artist>
+    <artist>Black Eyed Peas</artist>
+    <artist>Kings of Leon</artist>
+    <artist>Arctic Monkeys</artist>
+    <artist>Kaiser Chiefs</artist>
+    <artist>Kasabian</artist>
+    <artist>My Chemical Romance</artist>
+    <artist>Queens of the Stone Age</artist>
+    <artist>The Chemical Brothers</artist>
+    <artist>Ke$ha</artist>
+    <artist>Jimmy Eat World</artist>
+    <artist>Portishead</artist>
+    <artist>Iron Maiden</artist>
+    <artist>Bright Eyes</artist>
+    <artist>PJ Harvey</artist>
+    <artist>Eels</artist>
+    <artist>The Hives</artist>
+    <artist>The National</artist>
+    <artist>Fleet Foxes</artist>
+    <artist>TV on the Radio</artist>
+    <artist>All Time Low</artist>
+    <artist>Robyn</artist>
+    <artist>White Lies</artist>
+    <artist>Underworld</artist>
+    <artist>Two Door Cinema Club</artist>
+    <artist>Digitalism</artist>
+    <artist>Elbow</artist>
+    <artist>Bruno Mars</artist>
+    <artist>Social Distortion</artist>
+    <artist>Chase &amp; Status</artist>
+    <artist>Hurts</artist>
+    <artist>The Pretty Reckless</artist>
+    <artist>Anouk</artist>
+    <artist>James Blake</artist>
+    <artist>The Gaslight Anthem</artist>
+    <artist>Aloe Blacc</artist>
+    <artist>The Vaccines</artist>
+    <artist>Brandon Flowers</artist>
+    <artist>Warpaint</artist>
+    <artist>Magnetic Man</artist>
+    <artist>Goose</artist>
+    <artist>Grinderman</artist>
+    <artist>Tame Impala</artist>
+    <artist>Lissie</artist>
+    <artist>Beady Eye</artist>
+    <artist>Seasick Steve</artist>
+    <artist>I Blame Coco</artist>
+    <artist>Grouplove</artist>
+    <artist>Selah Sue</artist>
+    <artist>A-Trak</artist>
+    <artist>Everything Everything</artist>
+    <artist>Ozark Henry</artist>
+    <artist>The Subs</artist>
+    <artist>Arsenal</artist>
+    <artist>OFWGKTA</artist>
+    <artist>Mona</artist>
+    <artist>Jenny and Johnny</artist>
+    <artist>Triggerfinger</artist>
+    <artist>Evaline</artist>
+    <artist>Rival Sons</artist>
+    <headliner>Coldplay</headliner>
+  </artists>
+    <venue>
+    <id>8779175</id>
+    <name>Werchter</name>
+    <location>
+      <city>Werchter</city>
+      <country>Belgium</country>
+      <street>Haachtsesteenweg</street>
+      <postalcode>3118</postalcode>
+      <geo:point>
+         <geo:lat>50.968056</geo:lat>
+         <geo:long>4.684167</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779175+Werchter</url>
+    <website>http://www.rockwerchter.be</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/51957407.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/51957407.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/51957407.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/51957407.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/51957407/Werchter+hqdefault.jpg</image>
+  </venue>    <startDate>Thu, 30 Jun 2011 16:20:01</startDate>
+  <endDate>Sun, 03 Jul 2011 16:20:01</endDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/61957543.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/61957543.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/61957543.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/61957543.jpg</image>
+  <attendance>1389</attendance>
+  <reviews>16</reviews>
+  <tag>lastfm:event=1593907</tag>    
+  <url>http://www.last.fm/festival/1593907+Rock+Werchter+2011</url>
+  <website>http://www.rockwerchter.be</website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1909501</id>
+  <title>Portishead</title>
+  <artists>
+    <artist>Portishead</artist>
+    <artist>Thought Forms</artist>
+    <headliner>Portishead</headliner>
+  </artists>
+    <venue>
+    <id>8906285</id>
+    <name>Vredenburg Leidsche Rijn</name>
+    <location>
+      <city>Utrecht</city>
+      <country>Netherlands</country>
+      <street>J.C. Verthorenpad 100</street>
+      <postalcode>3541 MV</postalcode>
+      <geo:point>
+         <geo:lat>52.09602</geo:lat>
+         <geo:long>5.0734</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8906285+Vredenburg+Leidsche+Rijn</url>
+    <website>http://www.rodedoos.nl</website>
+    <phonenumber>030-2314544</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/29338249.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/29338249.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/29338249.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/29338249.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/500/29338249/Vredenburg+Leidsche+Rijn.jpg</image>
+  </venue>    <startDate>Wed, 15 Jun 2011 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Vredenburg &amp; Tivoli presenteren Portishead in Vredenburg Leidsche Rijn<br /><br />Enige show in Nederland!<br /><br />De Britse band Portishead brak in 1994 door met het even broeierige als geniale triphopalbum Dummy. Vooral dankzij de bezwerende stem van zangeres Beth Gibbons werden nummers als Numb, Sour Times en Glory Box klassiekers � niet voor niets werd Dummy door muziektijdschrift Rolling Stone in 2003 opgenomen in een lijst met de 500 beste albums aller tijden. Na het tweede album volgde er een pauze, maar in 2008 kwam het trio verpletterend terug met Third, waarop de zwoele klanken waren verruild voor een Joy Division-sound. Portishead treedt niet zo vaak op in Nederland, dus grijp je kans!<br /><br />Voorverkoop start op zaterdag 16 april om 10.00 uur via TicketService.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/35111505.png</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/35111505.png</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/35111505.png</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/35111505.png</image>
+  <attendance>164</attendance>
+  <reviews>2</reviews>
+  <tag>lastfm:event=1909501</tag>    
+  <url>http://www.last.fm/event/1909501+Portishead+at+Vredenburg+Leidsche+Rijn+on+15+June+2011</url>
+  <website>http://www.vredenburg.nl/agenda/concerten/2072/Portishead/</website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1905503</id>
+  <title>Yann Tiersen</title>
+  <artists>
+    <artist>Yann Tiersen</artist>
+    <headliner>Yann Tiersen</headliner>
+  </artists>
+    <venue>
+    <id>8779114</id>
+    <name>Tivoli Oudegracht</name>
+    <location>
+      <city>Utrecht</city>
+      <country>Netherlands</country>
+      <street>Oudegracht 245</street>
+      <postalcode>3511 NL</postalcode>
+      <geo:point>
+         <geo:lat>52.087192</geo:lat>
+         <geo:long>5.121694</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779114+Tivoli+Oudegracht</url>
+    <website>http://www.tivoli.nl</website>
+    <phonenumber>0900 235 84 86</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/381929.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/381929.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/381929.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/381929.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/381929/Tivoli+Oudegracht.jpg</image>
+  </venue>    <startDate>Thu, 02 Jun 2011 09:33:01</startDate>
+  <description><![CDATA[<div class="bbcode">De Franse componist en multi-instrumentalist Yann Tiersen heeft vanaf 1995 zes studioalbums uitgebracht, maar hij is vooral bekend van zijn fraaie soundtracks bij twee films: Le fabuleux destin d'Am�lie Poulain en Goodbye Lenin. Tot 2010 maakte Tiersen relatief rustige muziek, maar op zijn laatste cd Dust Lane (2010) is hij een andere weg ingeslagen: Tiersen heeft de elektrische gitaar omgehangen en speelt nu rock met elektronische invloeden. Wat is gebleven, zijn de melodieuze kwaliteiten van zijn oude werk. Samen met een bijpassende nieuwe band zet Tiersen een stevige show neer!<br /><br />ENTREE � 25,00</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/66022138.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/66022138.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/66022138.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/66022138.jpg</image>
+  <attendance>73</attendance>
+  <reviews>1</reviews>
+  <tag>lastfm:event=1905503</tag>    
+  <url>http://www.last.fm/event/1905503+Yann+Tiersen+at+Tivoli+Oudegracht+on+2+June+2011</url>
+  <website></website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1550223</id>
+  <title>The Wall Live</title>
+  <artists>
+    <artist>Roger Waters</artist>
+    <headliner>Roger Waters</headliner>
+  </artists>
+    <venue>
+    <id>8778625</id>
+    <name>Gelredome</name>
+    <location>
+      <city>Arnhem</city>
+      <country>Netherlands</country>
+      <street>Batavierenweg 25</street>
+      <postalcode>6841 HN</postalcode>
+      <geo:point>
+         <geo:lat>51.963486</geo:lat>
+         <geo:long>5.892673</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778625+Gelredome</url>
+    <website>http://www.gelredome.nl</website>
+    <phonenumber>026-8807888</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/28553.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/28553.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/28553.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/28553.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/28553/Gelredome.jpg</image>
+  </venue>    <startDate>Fri, 08 Apr 2011 20:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Tickets: �67 - �69</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/379381.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/379381.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/379381.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/379381.jpg</image>
+  <attendance>257</attendance>
+  <reviews>1</reviews>
+  <tag>lastfm:event=1550223</tag>    
+  <url>http://www.last.fm/event/1550223+The+Wall+Live</url>
+  <website></website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1622850</id>
+  <title>Fuzz Universe Tour 2010</title>
+  <artists>
+    <artist>Paul Gilbert</artist>
+    <headliner>Paul Gilbert</headliner>
+  </artists>
+    <venue>
+    <id>8778890</id>
+    <name>Boerderij</name>
+    <location>
+      <city>Zoetermeer</city>
+      <country>Netherlands</country>
+      <street>Amerikaweg 145</street>
+      <postalcode>2717 AV</postalcode>
+      <geo:point>
+         <geo:lat>52.064472</geo:lat>
+         <geo:long>4.465971</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778890+Boerderij</url>
+    <website>http://www.cultuurpodiumboerderij.nl</website>
+    <phonenumber>+31 79 321 10 12</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/5395911.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/5395911.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/5395911.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/5395911.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/5395911/Boerderij+building.jpg</image>
+  </venue>    <startDate>Fri, 12 Nov 2010 20:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/16666849.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/16666849.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/16666849.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/16666849.jpg</image>
+  <attendance>15</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1622850</tag>    
+  <url>http://www.last.fm/event/1622850+Fuzz+Universe+Tour+2010</url>
+  <website></website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1565103</id>
+  <title>KoRn - Ballroom Blitz Tour</title>
+  <artists>
+    <artist>Korn</artist>
+    <artist>Dimmu Borgir</artist>
+    <artist>Turbowolf</artist>
+    <headliner>Korn</headliner>
+  </artists>
+    <venue>
+    <id>8778722</id>
+    <name>Heineken Music Hall</name>
+    <location>
+      <city>Amsterdam</city>
+      <country>Netherlands</country>
+      <street>ArenA Boulevard 590</street>
+      <postalcode>1101 DS</postalcode>
+      <geo:point>
+         <geo:lat>52.312597</geo:lat>
+         <geo:long>4.943387</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778722+Heineken+Music+Hall</url>
+    <website>http://www.heineken-music-hall.nl</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/18210785.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/18210785.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/18210785.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/18210785.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/18210785/Heineken+Music+Hall.jpg</image>
+  </venue>    <startDate>Sun, 19 Sep 2010 19:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Tijdschema:<br /><br />18.30 uur Buitendeuren open<br />19.00 uur Turbowolf<br />19.30 uur Pauze. <br />20.00 uur Dimmu Borgir.<br />20.45 uur Pauze. <br />21.15 uur Aanvang Korn.<br />23.00 uur Einde concert, aanvang afterparty in de Beatbox op de eerste verdieping</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/32578399.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/32578399.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/32578399.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/32578399.jpg</image>
+  <attendance>107</attendance>
+  <reviews>2</reviews>
+  <tag>lastfm:event=1565103</tag>    
+  <url>http://www.last.fm/event/1565103+KoRn+-+Ballroom+Blitz+Tour</url>
+  <website>http://www.livenation.nl/event/16453/korn-ballroom-blitz-tour-tickets</website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1504765</id>
+  <title>Limp Bizkit</title>
+  <artists>
+    <artist>Limp Bizkit</artist>
+    <artist>The Blackout</artist>
+    <headliner>Limp Bizkit</headliner>
+  </artists>
+    <venue>
+    <id>8778722</id>
+    <name>Heineken Music Hall</name>
+    <location>
+      <city>Amsterdam</city>
+      <country>Netherlands</country>
+      <street>ArenA Boulevard 590</street>
+      <postalcode>1101 DS</postalcode>
+      <geo:point>
+         <geo:lat>52.312597</geo:lat>
+         <geo:long>4.943387</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778722+Heineken+Music+Hall</url>
+    <website>http://www.heineken-music-hall.nl</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/18210785.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/18210785.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/18210785.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/18210785.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/18210785/Heineken+Music+Hall.jpg</image>
+  </venue>    <startDate>Mon, 06 Sep 2010 11:07:01</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/3044858.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/3044858.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/3044858.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/3044858.jpg</image>
+  <attendance>151</attendance>
+  <reviews>1</reviews>
+  <tag>lastfm:event=1504765</tag>    
+  <url>http://www.last.fm/event/1504765+Limp+Bizkit+at+Heineken+Music+Hall+on+6+September+2010</url>
+  <website>http://www.setlist.fm/setlist/limp-bizkit/2010/heineken-music-hall-amsterdam-netherlands-33d5e8dd.html</website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1135861</id>
+  <title>A Campingflight to Lowlands Paradise 2010</title>
+  <artists>
+    <artist>Snow Patrol</artist>
+    <artist>blink-182</artist>
+    <artist>Placebo</artist>
+    <artist>Massive Attack</artist>
+    <artist>The Kooks</artist>
+    <artist>Queens of the Stone Age</artist>
+    <artist>30 Seconds to Mars</artist>
+    <artist>Air</artist>
+    <artist>LCD Soundsystem</artist>
+    <artist>The Ting Tings</artist>
+    <artist>Band of Horses</artist>
+    <artist>Groove Armada</artist>
+    <artist>The National</artist>
+    <artist>Hot Chip</artist>
+    <artist>Pendulum</artist>
+    <artist>OK Go</artist>
+    <artist>NOFX</artist>
+    <artist>All Time Low</artist>
+    <artist>The xx</artist>
+    <artist>Two Door Cinema Club</artist>
+    <artist>Foals</artist>
+    <artist>Mumford &amp; Sons</artist>
+    <artist>3OH!3</artist>
+    <artist>Laura Marling</artist>
+    <artist>Beach House</artist>
+    <artist>Serj Tankian</artist>
+    <artist>Marina &amp; the Diamonds</artist>
+    <artist>Minus the Bear</artist>
+    <artist>Miike Snow</artist>
+    <artist>Tinie Tempah</artist>
+    <artist>The Drums</artist>
+    <artist>Yeasayer</artist>
+    <artist>Caribou</artist>
+    <artist>Broken Bells</artist>
+    <artist>The Specials</artist>
+    <artist>Gentleman</artist>
+    <artist>Chase &amp; Status</artist>
+    <artist>Against Me!</artist>
+    <artist>Blood Red Shoes</artist>
+    <artist>The Bloody Beetroots</artist>
+    <artist>Local Natives</artist>
+    <artist>Martina Topley-Bird</artist>
+    <artist>Frightened Rabbit</artist>
+    <artist>You Me At Six</artist>
+    <artist>Flying Lotus</artist>
+    <artist>Burning Spear</artist>
+    <artist>Delphic</artist>
+    <artist>Anouk</artist>
+    <artist>The Gaslight Anthem</artist>
+    <artist>Band of Skulls</artist>
+    <artist>Finntroll</artist>
+    <artist>Surfer Blood</artist>
+    <artist>Mark Lanegan</artist>
+    <artist>Jaga Jazzist</artist>
+    <artist>I Am Kloot</artist>
+    <artist>Noisia</artist>
+    <artist>J�nsi</artist>
+    <artist>Skindred</artist>
+    <artist>Holy Fuck</artist>
+    <artist>Major Lazer</artist>
+    <artist>Fat Freddy's Drop</artist>
+    <artist>Mount Kimbie</artist>
+    <artist>Black Sun Empire</artist>
+    <artist>Plastikman</artist>
+    <artist>Cymbals Eat Guitars</artist>
+    <artist>The Low Anthem</artist>
+    <artist>I Blame Coco</artist>
+    <artist>Diablo Swing Orchestra</artist>
+    <artist>Netsky</artist>
+    <artist>Nosaj Thing</artist>
+    <artist>Dan Le Sac vs Scroobius Pip</artist>
+    <artist>Joker</artist>
+    <artist>Selah Sue</artist>
+    <artist>Caspa</artist>
+    <artist>Kele</artist>
+    <artist>Die Antwoord</artist>
+    <artist>And So I Watch You From Afar</artist>
+    <artist>A-Trak</artist>
+    <artist>Dave Clarke</artist>
+    <artist>Aeroplane</artist>
+    <artist>FM Belfast</artist>
+    <artist>Hudson Mohawke</artist>
+    <artist>Starkey</artist>
+    <artist>The Soft Pack</artist>
+    <artist>Jesca Hoop</artist>
+    <artist>King Midas Sound</artist>
+    <artist>Gonjasufi</artist>
+    <artist>Imelda May</artist>
+    <artist>Martyn</artist>
+    <artist>Villagers</artist>
+    <artist>Actress</artist>
+    <artist>The Hundred in the Hands</artist>
+    <artist>Fool's Gold</artist>
+    <artist>Admiral Freebee</artist>
+    <artist>Shameboy</artist>
+    <artist>Sleepy Sun</artist>
+    <artist>Peggy Sue</artist>
+    <artist>Katzenjammer</artist>
+    <artist>The Opposites</artist>
+    <artist>La Pegatina</artist>
+    <artist>Kees van Hondt</artist>
+    <artist>Wallis Bird</artist>
+    <artist>Vieux Farka Tour�</artist>
+    <artist>Graffiti6</artist>
+    <artist>Len Faki</artist>
+    <artist>Moss</artist>
+    <artist>Alamo Race Track</artist>
+    <artist>Sound Of Stereo</artist>
+    <artist>Shed</artist>
+    <artist>Floating Points</artist>
+    <artist>Balthazar</artist>
+    <artist>Go Back To The Zoo</artist>
+    <artist>Triggerfinger</artist>
+    <artist>Marcel Dettmann</artist>
+    <artist>Ginger Ninja</artist>
+    <artist>Ed Rush</artist>
+    <artist>Walls</artist>
+    <artist>Blaudzun</artist>
+    <artist>Airship</artist>
+    <artist>Tim Knol</artist>
+    <artist>F</artist>
+    <artist>The Q4</artist>
+    <artist>Subfocus</artist>
+    <artist>Figli di Madre Ignota</artist>
+    <artist>Martin</artist>
+    <artist>The DJ Producer</artist>
+    <artist>Staff Benda Bilili</artist>
+    <artist>Flinke Namen</artist>
+    <artist>Dr. Lektroluv</artist>
+    <artist>Jack Parow</artist>
+    <artist>Steffi</artist>
+    <artist>Kalio Gayo</artist>
+    <artist>Schlachthofbronx</artist>
+    <artist>Typhoon &amp; New Cool Collective</artist>
+    <artist>Baskerville</artist>
+    <artist>Boemklatsch</artist>
+    <artist>The Upsessions</artist>
+    <artist>The Applejacks</artist>
+    <artist>Alain Johannes</artist>
+    <artist>Delta Funktionen</artist>
+    <artist>Andra Generationen</artist>
+    <artist>Magnetic Man</artist>
+    <artist>Hank The Knife &amp; The Jets</artist>
+    <artist>Daily Bread</artist>
+    <artist>Deville</artist>
+    <artist>HighBLoo</artist>
+    <artist>TJ Kong &amp; Nuno Dos Santos</artist>
+    <artist>Masterblaster</artist>
+    <artist>Olene Kadar</artist>
+    <artist>Party Harders</artist>
+    <artist>Makebelieve</artist>
+    <artist>Jackal</artist>
+    <artist>My Favorite Scar</artist>
+    <artist>capacocha</artist>
+    <artist>Spirals</artist>
+    <artist>Klavan</artist>
+    <artist>DS-10 Dominator</artist>
+    <artist>The Rudolfs</artist>
+    <artist>Gomes</artist>
+    <artist>Epic Fuel</artist>
+    <artist>The Jetts</artist>
+    <artist>Kinderen tegen Kinderen</artist>
+    <artist>Boom boom du Terre</artist>
+    <artist>BlackboxRed</artist>
+    <artist>Anita &amp; Ed</artist>
+    <artist>Lemmascent</artist>
+    <artist>Los Dedos</artist>
+    <artist>Theeves</artist>
+    <artist>The Dead Normality</artist>
+    <artist>Lameck</artist>
+    <artist>The Representatives</artist>
+    <artist>Big City Goose</artist>
+    <artist>The Expellers</artist>
+    <artist>El Camaro</artist>
+    <artist>Synergy Point</artist>
+    <artist>Dissy</artist>
+    <artist>Beever</artist>
+    <artist>Valour up Twice</artist>
+    <artist>Shantel &amp; Bucovina Club Orkestar</artist>
+    <artist>Stolen Bicycles</artist>
+    <artist>Breakage</artist>
+    <artist>deadmau5</artist>
+    <artist>Ben Klock</artist>
+    <artist>Dorian Concept</artist>
+    <artist>Tame Impala</artist>
+    <artist>Kaiserschnee</artist>
+    <artist>Graverot</artist>
+    <artist>de Theezakjes</artist>
+    <headliner>Snow Patrol</headliner>
+  </artists>
+    <venue>
+    <id>8795559</id>
+    <name>Evenemententerrein Walibi World</name>
+    <location>
+      <city>Biddinghuizen</city>
+      <country>Netherlands</country>
+      <street>Spijkweg 30</street>
+      <postalcode>8256 RJ</postalcode>
+      <geo:point>
+         <geo:lat>52.438945</geo:lat>
+         <geo:long>5.771056</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8795559+Evenemententerrein+Walibi+World</url>
+    <website>http://www.walibiworld.nl</website>
+    <phonenumber>0321-32-9999</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/34256537.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/34256537.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/34256537.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/34256537.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/34256537/Evenemententerrein+Walibi+World+ST_KP4FLHSLOWLANDS_841500b.jpg</image>
+  </venue>    <startDate>Fri, 20 Aug 2010 16:05:01</startDate>
+  <endDate>Sun, 22 Aug 2010 16:05:01</endDate>
+  <description><![CDATA[<div class="bbcode"><strong>SOLD OUT</strong> / <strong>UITVERKOCHT</strong><br /><br /><strong><a href="http://lowlands.nl/blokkenschema.php" rel="nofollow">Blokkenschema</a></strong></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/45281183.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/45281183.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/45281183.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/45281183.jpg</image>
+  <attendance>2796</attendance>
+  <reviews>19</reviews>
+  <tag>lastfm:event=1135861</tag>    
+  <url>http://www.last.fm/festival/1135861+A+Campingflight+to+Lowlands+Paradise+2010</url>
+  <website>http://www.lowlands.nl</website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1515317</id>
+  <title>DJ Shadow</title>
+  <artists>
+    <artist>DJ Shadow</artist>
+    <headliner>DJ Shadow</headliner>
+  </artists>
+    <venue>
+    <id>8779114</id>
+    <name>Tivoli Oudegracht</name>
+    <location>
+      <city>Utrecht</city>
+      <country>Netherlands</country>
+      <street>Oudegracht 245</street>
+      <postalcode>3511 NL</postalcode>
+      <geo:point>
+         <geo:lat>52.087192</geo:lat>
+         <geo:long>5.121694</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8779114+Tivoli+Oudegracht</url>
+    <website>http://www.tivoli.nl</website>
+    <phonenumber>0900 235 84 86</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/381929.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/381929.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/381929.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/381929.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/381929/Tivoli+Oudegracht.jpg</image>
+  </venue>    <startDate>Wed, 28 Jul 2010 21:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/162823.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/162823.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/162823.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/162823.jpg</image>
+  <attendance>102</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1515317</tag>    
+  <url>http://www.last.fm/event/1515317+DJ+Shadow+at+Tivoli+Oudegracht+on+28+July+2010</url>
+  <website></website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1309230</id>
+  <title>Muse</title>
+  <artists>
+    <artist>Muse</artist>
+    <artist>Editors</artist>
+    <artist>Ghinzu</artist>
+    <headliner>Muse</headliner>
+  </artists>
+    <venue>
+    <id>8782650</id>
+    <name>Goffertpark</name>
+    <location>
+      <city>Nijmegen</city>
+      <country>Netherlands</country>
+      <street>Goffertpark</street>
+      <postalcode>6532</postalcode>
+      <geo:point>
+         <geo:lat>51.823333</geo:lat>
+         <geo:long>5.8325</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8782650+Goffertpark</url>
+    <website>http://www.goffertpark-nijmegen.nl/</website>
+    <phonenumber></phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/240930.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/240930.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/240930.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/240930.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/240930/Goffertpark.jpg</image>
+  </venue>    <startDate>Sat, 19 Jun 2010 18:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">18.30 - 19.00: <a href="http://www.last.fm/music/Ghinzu" class="bbcode_artist">Ghinzu</a><br />19.30 - 20.15: <a href="http://www.last.fm/music/Editors" class="bbcode_artist">Editors</a><br />20.45 - 23.00: <a href="http://www.last.fm/music/Muse" class="bbcode_artist">Muse</a></div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/419542.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/419542.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/419542.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/419542.jpg</image>
+  <attendance>1628</attendance>
+  <reviews>8</reviews>
+  <tag>lastfm:event=1309230</tag>    
+  <url>http://www.last.fm/event/1309230+Muse+at+Goffertpark+on+19+June+2010</url>
+  <website>http://www.livenation.nl/event/9295/muse-tickets</website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1277032</id>
+  <title>Air</title>
+  <artists>
+    <artist>Air</artist>
+    <artist>George Pringle</artist>
+    <headliner>Air</headliner>
+  </artists>
+    <venue>
+    <id>8778456</id>
+    <name>Paradiso</name>
+    <location>
+      <city>Amsterdam</city>
+      <country>Netherlands</country>
+      <street>Weteringschans 6-8</street>
+      <postalcode>1017 SG</postalcode>
+      <geo:point>
+         <geo:lat>52.362287</geo:lat>
+         <geo:long>4.883965</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778456+Paradiso</url>
+    <website>http://www.paradiso.nl</website>
+    <phonenumber>+31-(0)20-6264521</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/405754.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/405754.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/405754.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/405754.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/405754/Paradiso.jpg</image>
+  </venue>    <startDate>Sat, 06 Feb 2010 20:30:00</startDate>
+  <description></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/282635.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/282635.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/282635.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/282635.jpg</image>
+  <attendance>119</attendance>
+  <reviews>0</reviews>
+  <tag>lastfm:event=1277032</tag>    
+  <url>http://www.last.fm/event/1277032+Air+at+Paradiso+on+6+February+2010</url>
+  <website>http://www.paradiso.nl/web/Agenda-Item/AIR.htm</website>
+    <cancelled>0</cancelled>
+    </event>    <event xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" status="0">
+  <id>1054004</id>
+  <title>Rammstein</title>
+  <artists>
+    <artist>Rammstein</artist>
+    <artist>Combichrist</artist>
+    <headliner>Rammstein</headliner>
+  </artists>
+    <venue>
+    <id>8778625</id>
+    <name>Gelredome</name>
+    <location>
+      <city>Arnhem</city>
+      <country>Netherlands</country>
+      <street>Batavierenweg 25</street>
+      <postalcode>6841 HN</postalcode>
+      <geo:point>
+         <geo:lat>51.963486</geo:lat>
+         <geo:long>5.892673</geo:long>
+      </geo:point>
+    </location>
+    <url>http://www.last.fm/venue/8778625+Gelredome</url>
+    <website>http://www.gelredome.nl</website>
+    <phonenumber>026-8807888</phonenumber>
+    <image size="small">http://userserve-ak.last.fm/serve/34/28553.jpg</image>
+	<image size="medium">http://userserve-ak.last.fm/serve/64/28553.jpg</image>
+	<image size="large">http://userserve-ak.last.fm/serve/126/28553.jpg</image>
+	<image size="extralarge">http://userserve-ak.last.fm/serve/252/28553.jpg</image>
+	<image size="mega">http://userserve-ak.last.fm/serve/_/28553/Gelredome.jpg</image>
+  </venue>    <startDate>Sun, 06 Dec 2009 19:00:00</startDate>
+  <description><![CDATA[<div class="bbcode">Sold out!<br /><br />De internationaal succesvolle Duitse rockband gaat weer op tournee! En ook Nederland wordt hierbij niet overgeslagen. Op zondag 6 december staat Rammstein in GelreDome te Arnhem. Na ruim vier jaar afwezigheid steekt Rammstein de grens weer over naar Nederland. Stonden de duistere Duitsers in 2005 nog op het hoofdpodium van Fields of Rock, nu verzorgen ze weer een geheel eigen show in de Arnhemse GelreDome. Compleet met vele special effects, dildo-acts, bizarre verkleedpartijen, theater, rook, vlammenwerpers en andere vurige show-elementen, staat GelreDome geheel in het teken van het altijd grootse en extravagante spektakel dat Rammstein biedt. Een nieuw album? Ja, die staat ook in de planning, meer details hierover volgen later.</div>]]></description>
+  <image size="small">http://userserve-ak.last.fm/serve/34/2384765.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/2384765.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/2384765.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/2384765.jpg</image>
+  <attendance>445</attendance>
+  <reviews>2</reviews>
+  <tag>lastfm:event=1054004</tag>    
+  <url>http://www.last.fm/event/1054004+Rammstein+at+Gelredome+on+6+December+2009</url>
+  <website>http://www.livenation.nl/event/2683/rammstein-tickets</website>
+    <cancelled>0</cancelled>
+    </event></events></lfm>

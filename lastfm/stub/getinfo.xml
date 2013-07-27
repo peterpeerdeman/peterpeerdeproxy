@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<user>
+    <name>helmeester</name>
+    <realname>Peter</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/3324533.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/3324533.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/3324533.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/3324533.jpg</image>
+    <url>http://www.last.fm/user/helmeester</url>
+        
+	<id>8519791</id>
+		
+    <country>NL</country>
+    <age>24</age>
+    <gender>m</gender>
+    <subscriber>0</subscriber>
+    <playcount>18868</playcount>
+    <playlists>1</playlists>
+    <bootstrap>0</bootstrap>
+    <registered unixtime="1196461834">2007-11-30 22:30</registered>
+	<type>user</type>
+    
+</user></lfm>

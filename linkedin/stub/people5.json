@@ -1,0 +1,448 @@
+{
+  "firstName": "Peter",
+  "headline": "Senior Consultant Online Technology at Capgemini",
+  "id": "k8-Cx_eepK",
+  "lastName": "Peerdeman",
+  "pictureUrl": "http://m3.licdn.com/mpr/mprx/0_uXLP60w0Ym5wR1Jzak6h6yUfOw-QMzdzaQA26y4x3D6nQlOvhGzxepulrQtMV-HJSFFSdRETww69",
+  "positions": {
+    "_total": 12,
+    "values": [
+      {
+        "company": {
+          "id": 157240,
+          "industry": "Information Technology and Services",
+          "name": "Capgemini",
+          "size": "10,001+ employees",
+          "ticker": "CAP",
+          "type": "Public Company"
+        },
+        "id": 348432206,
+        "isCurrent": true,
+        "startDate": {
+          "month": 1,
+          "year": 2013
+        },
+        "summary": "-Front-end Developer (Javascript / XML / JSON / jQuery / HTML / CSS)\n-Mobile Developer (Android / iOS / Multiplatform frameworks)",
+        "title": "Senior Consultant Online Technology"
+      },
+      {
+        "company": {
+          "id": 201503,
+          "industry": "Information Technology and Services",
+          "name": "Bayer Business Services",
+          "size": "1001-5000 employees",
+          "type": "Privately Held"
+        },
+        "id": 326063949,
+        "isCurrent": true,
+        "startDate": {
+          "month": 10,
+          "year": 2012
+        },
+        "summary": "Bayer Business Services is empowering sales representatives by developing a highly usable multiplatform tablet application using the Kony platform and integrating with Salesforce CRM backend services. I am responsible for implementing the described processes in the mobile application. My tasks range from requirement analysis and translating requirements into prototypes to developing the mobile application in Kony studio and guiding both on-shore and off-shore colleague developers.",
+        "title": "Mobile Engineer"
+      },
+      {
+        "company": {
+          "id": 1520103,
+          "industry": "Entertainment",
+          "name": "Kud",
+          "size": "1-10 employees",
+          "type": "Public Company"
+        },
+        "id": 150910432,
+        "isCurrent": true,
+        "startDate": {
+          "month": 3,
+          "year": 2007
+        },
+        "summary": "To create a distinct artistic identity and higher quality animation productions in the media industry I'm collaborating with the writer, animator and voice actor of Kud to compose, record and produce music for several online animation series which have also been featured on dutch television. During a 12 week music project in 2010 we have recorded and released a limited edition officially registered audio cd.",
+        "title": "Musician / Producer / Podcaster"
+      },
+      {
+        "company": {
+          "id": 157240,
+          "industry": "Information Technology and Services",
+          "name": "Capgemini",
+          "size": "10,001+ employees",
+          "ticker": "CAP",
+          "type": "Public Company"
+        },
+        "endDate": {
+          "month": 12,
+          "year": 2012
+        },
+        "id": 147906796,
+        "isCurrent": false,
+        "startDate": {
+          "month": 11,
+          "year": 2010
+        },
+        "summary": "-Front-end Developer (Javascript / XML / JSON / jQuery / HTML / CSS)\n-Mobile Developer (Android / iOS / Multiplatform frameworks) \n-Prototyper (RDV / Flash Catalyst / iRise / Axure)\n\nDivision Business Information Management, Cluster Online Technology",
+        "title": "Consultant Online Technology"
+      },
+      {
+        "company": {
+          "id": 1173,
+          "industry": "Banking",
+          "name": "ABN AMRO Bank N.V.",
+          "size": "10,001+ employees",
+          "type": "Privately Held"
+        },
+        "endDate": {
+          "month": 10,
+          "year": 2012
+        },
+        "id": 207723447,
+        "isCurrent": false,
+        "startDate": {
+          "month": 5,
+          "year": 2011
+        },
+        "summary": "In this large scale redesign project my team is responsible for the deployment of a completely redesigned front-end architecture, agile scrum workflow and internet banking application. In the current leading project team I am developing structured modular front-end code in javascript / jQuery / requireJS / HTML(5) / CSS(3) and supporting the leading architects in their front-end architecture design.",
+        "title": "Front-end developer"
+      },
+      {
+        "company": {
+          "id": 1173,
+          "industry": "Banking",
+          "name": "ABN AMRO Bank N.V.",
+          "type": "Privately Held"
+        },
+        "endDate": {
+          "month": 5,
+          "year": 2011
+        },
+        "id": 207722346,
+        "isCurrent": false,
+        "startDate": {
+          "month": 3,
+          "year": 2011
+        },
+        "summary": "To align the concept team, business and IT in their redesign project I have actively participated in the concept designing process, by developing clickable prototypes in Flash Catalyst, HTML Axure and iRise that really help to bring certain concepts to life. With these prototypes, concept artists are able to communicate their thoughts to stakeholders like business, management and IT which creates a great sense of involvement, overview and participation through feedback and workshops.",
+        "title": "Prototyper"
+      },
+      {
+        "company": {
+          "id": 5570,
+          "industry": "Research",
+          "name": "Vrije Universiteit Amsterdam",
+          "size": "1001-5000 employees",
+          "type": "Educational Institution"
+        },
+        "endDate": {
+          "month": 10,
+          "year": 2010
+        },
+        "id": 76502284,
+        "isCurrent": false,
+        "startDate": {
+          "month": 3,
+          "year": 2009
+        },
+        "summary": "Student Assistent, assisting students during computer practicals on the courses \"Inleiding Programmeren\" (Java programming basics) \"Online Informatie Systemen\" (Online information systems), \"Project Interactive Multimedia\". and \"Privacy en Beveilging\" (Privacy and Security). These jobs consist of assisting students that are performing a computer practical course. In these courses students have to program exercises and the studentassistents provide them help when they have questions and check their work. In the last course I prepared and given tutorials and demo's on computer security.",
+        "title": "Student Assistent"
+      },
+      {
+        "company": {
+          "id": 1564195,
+          "industry": "Information Technology and Services",
+          "name": "NiftySystems",
+          "size": "1-10 employees",
+          "type": "Partnership"
+        },
+        "endDate": {
+          "month": 10,
+          "year": 2010
+        },
+        "id": 153232271,
+        "isCurrent": false,
+        "startDate": {
+          "month": 9,
+          "year": 2007
+        },
+        "summary": "Originating from his master study courses and the need of educational improvement on the VU in Amsterdam, Peter and his colleague Timen Olthof have completed several explorative researches into innovative technologies such as Actionscript / Flex, Adobe AIR, multi touch and mobile development for Android, resulting in clear experience documentation and examples to be used for future student projects.\n\nThe Android development project Peter did at the VU resulted in several small, widget based apps resulted in one Android-Market published application called \"Xbox Live Stats Widget\". This application, showing statistics for the xbox live gamer network using the official Microsoft developers API, was engineered, designed and implemented from scratch. In this process we have encountered several mobile development aspects such as third party API authorization negotiations, API usage and feed-parsing, Android Developer enrollment, Android-Market publishing, user feedback, error reporting and version updating.\n\nDeep-diving into the world of mobile development resulted in a wide variety of challenges on different levels. After learning and comprehending the complex workflow of the Android framework, we had to deal with real end-users and used their (mostly harsh) feedback to improve the application and create a more stable product. \n\nThe clear usage goal in a unique market niche, close relation to the applications users, updates with feature requests and bug fixes caused the application to be downloaded over 100.000 times and it is actively being used by over 20.000 Android users (as of 01-09-11).",
+        "title": "Innovation Specialist, Software Engineer, Developer"
+      },
+      {
+        "company": {
+          "id": 319416,
+          "industry": "Electrical/Electronic Manufacturing",
+          "name": "Tekenbureau Peerdeman",
+          "type": "Privately Held"
+        },
+        "endDate": {
+          "month": 10,
+          "year": 2010
+        },
+        "id": 76505395,
+        "isCurrent": false,
+        "startDate": {
+          "month": 1,
+          "year": 2005
+        },
+        "summary": "Draw electrotechnical symbols in Autocad as well as administrating all of the ICT maintenance, like windows file server, network, security, printers, workstation maintenance and hardware maintenance.\n\nIn the company Tekenbureau Peerdeman I have succesfully deployed all workstations with Windows XP with the Autocad software including the NPQ-cad solutions for electrotechnical drawing. In this company I have also setup and maintained a Windows file server, including seperate permissions for each employee, raid1 file mirroring and printer sharing.\n\nWhen clients of Tekenbureau Peerdeman experience difficulties with their computersystems or networks I am able to visit them and resolve the problems.",
+        "title": "Electrotechnical Drawer / ICT Administrator"
+      },
+      {
+        "company": {
+          "id": 5570,
+          "industry": "Research",
+          "name": "Vrije Universiteit Amsterdam",
+          "size": "1001-5000 employees",
+          "type": "Educational Institution"
+        },
+        "endDate": {
+          "month": 8,
+          "year": 2010
+        },
+        "id": 76508784,
+        "isCurrent": false,
+        "startDate": {
+          "month": 9,
+          "year": 2008
+        },
+        "summary": "Master Computer Science: Multimedia",
+        "title": "Master Student"
+      },
+      {
+        "company": {
+          "id": 481810,
+          "industry": "Computer Games",
+          "name": "Mijn naam is Haas",
+          "size": "1-10 employees",
+          "type": "Privately Held"
+        },
+        "endDate": {
+          "month": 6,
+          "year": 2010
+        },
+        "id": 107412898,
+        "isCurrent": false,
+        "startDate": {
+          "month": 2,
+          "year": 2010
+        },
+        "summary": "This serious game company from Amsterdam is developing an interactive educational flash-based game for young children. To improve the educational qualities of their game there was a need for an Intelligent Tutor System (ITS) that was able to tailor the difficulty of the in-game content to the currently playing student. During his internship he was responsible for eliciting the system\u2019s requirements from management, developers and external educational experts, engineering the software architecture and database design and conforming to previous researched ITS\u2019s. In the final stage of his internship he has successfully implemented the database backend and API for the ITS which are now actively used in the latest release of the game.",
+        "title": "Development Intern"
+      },
+      {
+        "company": {
+          "id": 5570,
+          "industry": "Research",
+          "name": "Vrije Universiteit Amsterdam",
+          "size": "1001-5000 employees",
+          "type": "Educational Institution"
+        },
+        "endDate": {
+          "month": 2,
+          "year": 2010
+        },
+        "id": 76520476,
+        "isCurrent": false,
+        "startDate": {
+          "month": 9,
+          "year": 2006
+        },
+        "summary": "I chose to take this job because the proper informing of pre-study students is crucial to the computer science trade. Bad informing and bad reputation causes low enrollments in computer science studies which leads to a big shortage on the market. This job consists of informing people on the computer science bachelor and master on the Vrije Universiteit in Amsterdam, as well as some presentations on schools throughout the country.",
+        "title": "Information official / public relations official"
+      }
+    ]
+  },
+  "recommendationsReceived": {
+    "_total": 12,
+    "values": [
+      {
+        "id": 32647991,
+        "recommendationText": "If you\u2019re looking for a team player, a online development thoughtleader, someone who gets the tasks done, and who will motivate your entire development team: you\u2019re looking for Peter! I hope to work for many more decades with Peter! And I can recommend him for the most challenging Online projects!",
+        "recommendationType": {"code": "colleague"},
+        "recommender": {
+          "firstName": "Jan",
+          "id": "bCcJMHWOs4",
+          "lastName": "Kremer"
+        }
+      },
+      {
+        "id": 32439882,
+        "recommendationText": "It\u2019s a pleasure to work together with Peter for the internal newsletter and in projects. He is always cheerful, enthusiast and willing to help and learn. Besides that he has great knowledge about different things: from mobile, technology, user experience to photography etc. What I appreciate the most about Peter is that he is open and that he stays close to himself.",
+        "recommendationType": {"code": "colleague"},
+        "recommender": {
+          "firstName": "Bregje",
+          "id": "EIJb2xJsJN",
+          "lastName": "Rijbroek, van"
+        }
+      },
+      {
+        "id": 32408063,
+        "recommendationText": "Peter is a young and talented front end developer with all the necessary skills to be of added value to complex and ambitiously planned projects. On top of that Peter has a good sense of humor, is very dedicated towards his goals and is a nice person to work with. I enjoy working with Peter.",
+        "recommendationType": {"code": "colleague"},
+        "recommender": {
+          "firstName": "Pim",
+          "id": "gcOXlvBCAD",
+          "lastName": "Rietvink"
+        }
+      },
+      {
+        "id": 32403727,
+        "recommendationText": "Peter is colleague you want in your team. He is very enthousiastic and proud on his work. He supports other colleagues and has a positive influence on the teamspirit. He works fast and of course he makes errors too.",
+        "recommendationType": {"code": "service-provider"},
+        "recommender": {
+          "firstName": "Fred",
+          "id": "VReFLlKiTj",
+          "lastName": "Roersma"
+        }
+      },
+      {
+        "id": 32401420,
+        "recommendationText": "A good musician is always looking for \"that\" note. \"That\" timing. \"That\" twang. Which makes for great jazz and rock 'n' roll. \r\nAs a guitarist Peter applies these principles to web development. Sites/pages do get \"that\" little extra, which make it rock.\r\nHe learns very quick; I did see him go from junior to senior within months. All this with a great smile, total dedication and the passion of a musician. And the dedication and the passion of a true developer.",
+        "recommendationType": {"code": "colleague"},
+        "recommender": {
+          "firstName": "Ron",
+          "id": "u2g20lE4j_",
+          "lastName": "van den Boogaard"
+        }
+      },
+      {
+        "id": 32344489,
+        "recommendationText": "As a user experience designer it is a pleasure to collaborate with a developer who picks up exactly what you wish to achieve and brings in his own ideas to give an interface that vital extra umph. Very smart, cheerful and open for challenges you couldn't ask for more from a colleague. Added fun extras include hair that reflects his mood and slick photos portraits of the team.",
+        "recommendationType": {"code": "service-provider"},
+        "recommender": {
+          "firstName": "Rebecca",
+          "id": "rpvNQKClAo",
+          "lastName": "Taylor"
+        }
+      },
+      {
+        "id": 32341156,
+        "recommendationText": "Peter has proven that he is able to make the impossible, possible. Ambituous, innovative, professional and persistant in a very pleasant way. And above all, Peter has made his brand by demonstrating for an enormous audience that he is able to excel and perform in ultimate stress situations!\r\n\r\nThanks for the great (team) work!",
+        "recommendationType": {"code": "colleague"},
+        "recommender": {
+          "firstName": "Frank",
+          "id": "Ytr8HYcmxq",
+          "lastName": "Eijssen"
+        }
+      },
+      {
+        "id": 32340229,
+        "recommendationText": "Peter is one of our most excentric, passionate and creative consultants within the Online domain within Capgemini (leading company within the Online space in Europe). Peter is always in a good mood, willing to deliver, willing to learn and his hart on the right place. I'm very happy that i've worked on several successes with Peter and think he's one of our raising stars within Capgemini. With compliments, Yvo Booisma Domain Lead Online Capgemini.",
+        "recommendationType": {"code": "colleague"},
+        "recommender": {
+          "firstName": "Yvo",
+          "id": "EAF9TdMTQv",
+          "lastName": "Booisma"
+        }
+      },
+      {
+        "id": 26703892,
+        "recommendationText": "Peter combines exceptional technical skills and knowledge with a perfectionist drive for quality and unique social leadership. He is always looking to optimize workflow and communication as a means to improve (team) results, and is constantly looking to help others.\r\nWe worked together on many projects and Peter always delivers creative solutions, quality productions and a lot of hard work. He proved to be a great colleague, a very kind person and a dear friend.",
+        "recommendationType": {"code": "colleague"},
+        "recommender": {
+          "firstName": "Timen",
+          "id": "wBFh3aS7yu",
+          "lastName": "Olthof"
+        }
+      },
+      {
+        "id": 22443788,
+        "recommendationText": "A creative, innovative and amoazing artist!",
+        "recommendationType": {"code": "colleague"},
+        "recommender": {
+          "firstName": "Peter",
+          "id": "Ijop6N8mOO",
+          "lastName": "Lub"
+        }
+      },
+      {
+        "id": 21208327,
+        "recommendationText": "In his master thesis project Peter clearly took the role of a computer scientist who is not only open to other intellectual disciplines but also has a strong drive to contribute to the creative process, in this case the Mijn Naam is Haas game. Also in other (multimedia) projects, Peter showed this rare combination of enthousiasm, technological expertise and creativity, resulting in the work that he developed with Timen Olthof, which can be found at http://www.niftysystems.nl/. Peter also contributed to the PR activities of the Faculty of Sciences at VU. All in all this makes him an example student, who obtained a well-deserved \"with praise\" at  his graduation ceremony. A promising talent, ready for great work!",
+        "recommendationType": {"code": "education"},
+        "recommender": {
+          "firstName": "A",
+          "id": "mP-12_sZaU",
+          "lastName": "Eliens"
+        }
+      },
+      {
+        "id": 18112967,
+        "recommendationText": "Peter helped us a lot with making contact with students. His enthusiasm for his education at the VU and the field of computer science in general is very stimulating. His way of presenting material really helped us to connect to potential new students for the university. Reliable, on time and always willing to help made him a great colleague.",
+        "recommendationType": {"code": "service-provider"},
+        "recommender": {
+          "firstName": "Michiel",
+          "id": "_BsN5LDcWw",
+          "lastName": "Boere"
+        }
+      }
+    ]
+  },
+  "skills": {
+    "_total": 16,
+    "values": [
+      {
+        "id": 4,
+        "skill": {"name": "Java"}
+      },
+      {
+        "id": 5,
+        "skill": {"name": "Android"}
+      },
+      {
+        "id": 6,
+        "skill": {"name": "ActionScript"}
+      },
+      {
+        "id": 9,
+        "skill": {"name": "iOS"}
+      },
+      {
+        "id": 10,
+        "skill": {"name": "HTML"}
+      },
+      {
+        "id": 11,
+        "skill": {"name": "CSS"}
+      },
+      {
+        "id": 12,
+        "skill": {"name": "Scrum"}
+      },
+      {
+        "id": 13,
+        "skill": {"name": "JSON"}
+      },
+      {
+        "id": 14,
+        "skill": {"name": "XML"}
+      },
+      {
+        "id": 15,
+        "skill": {"name": "API"}
+      },
+      {
+        "id": 16,
+        "skill": {"name": "Front-end Development"}
+      },
+      {
+        "id": 17,
+        "skill": {"name": "Multitouch"}
+      },
+      {
+        "id": 37,
+        "skill": {"name": "Front-end"}
+      },
+      {
+        "id": 38,
+        "skill": {"name": "HTML 5"}
+      },
+      {
+        "id": 51,
+        "skill": {"name": "JavaScript"}
+      },
+      {
+        "id": 52,
+        "skill": {"name": "jQuery"}
+      }
+    ]
+  },
+  "specialties": "Front-end development, HTML(5), CSS, Javascript, jQuery, Scrum, Android development, iOS development, Application Programming Interfaces (API), PHP, MySQL, Communicating, Presenting",
+  "summary": "I\u2019m a creativist. I\u2019m passionate about cutting edge technology, channeling my creativity through front-end development, high-five team synergy, music and photography. I love to excite and assist the world with beautiful applications and solutions. I\u2019m offering my experience in projects ranging from small multi-touch mobile mashups to large-scale corporate web applications. What are we creating tomorrow?"
+}
