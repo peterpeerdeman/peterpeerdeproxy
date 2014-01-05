@@ -19,17 +19,17 @@ switch($_GET['option']) {
 	
 	case 'userreviews':
         $url = $baseUrl . 'UserReviews' . '?api_key='.DRAMMER_API_KEY;
-        $output = $cache->get_data('drammerusercollection', $url);
+        $output = $cache->get_data('drammeruserreviews', $url);
 	break;
 	
 	case 'usertimeline':
         $url = $baseUrl . 'UserTimeline' . '?api_key='.DRAMMER_API_KEY;
-        $output = $cache->get_data('drammerusercollection', $url);
+        $output = $cache->get_data('drammerusertimeline', $url);
         break;
 
         case 'userwishlist':
         $url = $baseUrl . 'UserWishlist' . '?api_key='.DRAMMER_API_KEY;
-        $output = $cache->get_data('drammerusercollection', $url);
+        $output = $cache->get_data('drammeruserwishlist', $url);
         break;
 }
 curl_close($ch);
